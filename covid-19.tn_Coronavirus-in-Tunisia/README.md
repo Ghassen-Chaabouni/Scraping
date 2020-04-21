@@ -1,4 +1,4 @@
-# Coronavirus-in-Tunisia
+# Coronavirus in Tunisia
 
 #### France Coronavirus dataset.
 https://www.kaggle.com/lperez/coronavirus-france-dataset
